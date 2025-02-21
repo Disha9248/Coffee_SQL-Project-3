@@ -1,6 +1,6 @@
 # Monday Coffee Expansion SQL Project
 
-![Company Logo](https://github.com/najirh/Monday-Coffee-Expansion-Project-P8/blob/main/1.png)
+![Coffee Image](https://github.com/user-attachments/assets/3a35b671-b248-4e7d-9ad3-97598afb1afa)
 
 ## Overview
 This project focuses on analyzing coffee sales data from multiple cities to extract meaningful insights. 
